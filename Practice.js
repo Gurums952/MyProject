@@ -2,7 +2,7 @@ let a=[1,2,3,4,5,6,7,8,9,10];
 for (let a=10 ; a >=1; a--) {
         
 
-if (a%3==0 && a%5==0) {
+if (a%3==0 && a%5==0 && a%2==0) {
     console.log("FizzBuzz")
 }
 else if(a%3==0){
