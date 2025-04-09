@@ -5,6 +5,6 @@ if(c>100 || d>50){
 console.log("Guru")
 }
 else{
-console.log("prashath")
+console.log("prashanth")
 }
 
